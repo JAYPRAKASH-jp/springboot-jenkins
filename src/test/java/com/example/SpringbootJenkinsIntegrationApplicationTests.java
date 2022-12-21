@@ -14,7 +14,7 @@ class SpringbootJenkinsIntegrationApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test is Executing...");
-		logger.info("Testing is Pipeline...")
+		logger.info("Testing is Pipeline...");
 		assertEquals(true, true);
 	}
 
